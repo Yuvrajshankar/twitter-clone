@@ -1,4 +1,4 @@
-# Todos.
+# X (Twitter) Clone.
 
 ## Description
 
@@ -12,7 +12,11 @@ Full Stack Twitter Clone built with MERN STACK
 
 **Database:** Mongo DB
 
+**Image Uploading:** Cloudinary
+
 ## Demo
+
+[https://twitter-clone-r0zz.onrender.com](https://twitter-clone-r0zz.onrender.com)
 
 ## Features
 
@@ -53,13 +57,13 @@ To run this project locally, follow these steps:
 
 ```bash
 PORT = 5000
-MONGO_URI = 
-JWT_SECRET = 
-NODE_ENV = 
+MONGO_URI =
+JWT_SECRET =
+NODE_ENV =
 
-CLOUDINARY_CLOUD_NAME = 
-CLOUDINARY_API_KEY = 
-CLOUDINARY_API_SECRET = 
+CLOUDINARY_CLOUD_NAME =
+CLOUDINARY_API_KEY =
+CLOUDINARY_API_SECRET =
 ```
 
 4. Start the server
@@ -72,7 +76,7 @@ CLOUDINARY_API_SECRET =
 
 ```bash
   cd frontend
-  npm start
+  npm run dev
 ```
 
 ## Made By
