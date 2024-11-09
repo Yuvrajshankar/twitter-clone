@@ -1,5 +1,7 @@
 # X (Twitter) Clone.
 
+![auth](twitter-photo.png)
+
 ## Description
 
 Full Stack Twitter Clone built with MERN STACK
